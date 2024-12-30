@@ -17,8 +17,8 @@ def generate_otp():
 
 def send_email(receiver_email, otp):
     """Send the OTP to the given email address."""
-    sender_email = "khanshariqua32@gmail.com"  # Replace with your email
-    sender_password = "ubxz zfei hppr cgnx"       # Replace with your email password
+    sender_email = "shirkedivyani123@gmail.com"  # Replace with your email
+    sender_password = "grkh ijbk xcan pgvg"       # Replace with your email password
 
     try:
         # Set up the email server
